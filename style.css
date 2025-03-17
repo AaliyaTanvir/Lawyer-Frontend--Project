@@ -304,6 +304,45 @@
         	padding: 20px 40px;
         	font-size: 16px;
         }
+        /*       Testmonial*/
+       .testmonial{
+         width: 100%;
+            height: 500px;
+            background: url(./image/section_bg1.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+           font-size: 24px;
+           color: white; 
+           display: flex;
+            justify-content: flex-end;
+            align-items: center;    
+       }
+       .testmonial p{
+        font-size: 26px;
+        color: white;
+        padding: 10px 0px 40px 0px;
+        text-align: left;
+        font-family: Roboto,sans-serif;
+        line-height: 1.6;
+       }
+       .test{
+        width: 38%;
+        margin-right: 100px;
+       }
+       .test h1{
+        padding-top: 100px;
+        box-sizing: border-box;
+        padding-bottom: 15px;
+
+       }
+       .test .testp{
+         position: relative;
+         bottom: 75px;
+         margin-left: 74px;
+         font-size: 18px;
+         color: #FFFFFFCC;
+         
+       }
         
 /*        News-section*/
         .News{
